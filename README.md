@@ -5,12 +5,11 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔰 I'm exploring new stuff in Web Dev
+- 🔰 I'm a Full-Stack Developer
   
-- 📜 I’m currently working on a Task Manager app
+- 📜 I’m currently learning Next.js
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 
 - 📫 How to reach me --> **anshrusia2002@gmail.com**
 
